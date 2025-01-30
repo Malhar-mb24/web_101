@@ -1,0 +1,18 @@
+new.txt 
+body {
+
+    background-color: #fff7f7; /* Light mode background */
+  
+    color: #000000; /* Light mode text color */
+  
+  }
+  
+  
+  
+  body.dark-mode {
+  
+    background-color: #000000;
+  
+    color: #ffffff; /* Dark mode colors */
+  
+  }

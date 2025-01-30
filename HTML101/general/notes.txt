@@ -8,3 +8,10 @@ client-Server model
 
  just if anyone wondering bout the error in h1 everything is bold usually all heading tags have similar mechanism
 b and strong dont work
+
+
+
+<script type="text/javascript" id="colorToggle" async
+    src="jsscript/togglelogic.js">
+  
+    </script>
